@@ -17,12 +17,23 @@ A primeira versão do MathHub apresenta uma calculadora de descontos, permitindo
 - Validar os valores informados pelo usuário.
 - Solicitar novamente os valores quando forem inválidos.
 
-### 🛠️ Tecnologias utilizadas
+## 🚀 Versão 1.1 — Melhorias na Calculadora
+
+A versão 1.1 traz melhorias na experiência de utilização da calculadora, tornando o programa mais organizado e permitindo realizar vários cálculos durante a mesma execução.
+
+### Novas funcionalidades e melhorias
+
+- **Formatação monetária:** exibição dos valores com duas casas decimais.
+- **Repetição de cálculos:** possibilidade de calcular descontos de vários produtos sem reiniciar o programa.
+- **Menu inicial:** inclusão de um menu com opções para iniciar um cálculo ou encerrar o programa.
+- **Navegação:** retorno automático ao menu após a conclusão de cada cálculo.
+
+## 🛠️ Tecnologias utilizadas
 
 - **Linguagem:** C++
 - **IDE:** Code::Blocks
 
-### 🧮 Exemplo de cálculo
+## 🧮 Exemplo de cálculo
 
 Considerando um produto de R$ 100,00 com desconto de 25%:
 
@@ -33,11 +44,11 @@ Considerando um produto de R$ 100,00 com desconto de 25%:
 | Valor descontado | R$ 25,00 |
 | Preço final | R$ 75,00 |
 
-### 📚 Objetivo do projeto
+## 📚 Objetivo do projeto
 
 O MathHub também tem como objetivo colocar em prática os conhecimentos adquiridos durante os estudos de programação, desenvolvendo habilidades em lógica de programação, estruturas condicionais, laços de repetição e operações matemáticas.
 
-### 🔄 Evolução do projeto
+## 🔄 Evolução do projeto
 
 O MathHub continuará recebendo melhorias e novas funcionalidades ao longo do desenvolvimento.
 
@@ -47,4 +58,4 @@ As próximas versões poderão incluir ferramentas de cálculos financeiros, con
 
 **Status:** Em desenvolvimento.
 
-**Versão atual:** 1.0
+**Versão atual:** 1.1
